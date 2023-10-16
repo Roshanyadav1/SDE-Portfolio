@@ -3,7 +3,7 @@ import profile from '../assets/profile.jpg'
 
 const INFO = {
 	main: {
-		title: "Reactfolio by Roshan",
+		title: "Roshan",
 		name: "Roshan Y.",
 		email: "mrroshan738949@gmail.com",
 		logo: profile,
@@ -22,7 +22,7 @@ const INFO = {
 	},
 
 	about: {
-		title: "I am Roshan Yadav, residing in Khategaon, Madhya Pradesh, India, dedicated to meticulously shaping the digital frontier with unwavering dedication and expertise.",
+		title: "I am Roshan Yadav, residing in Khategaon, Madhya Pradesh, India.",
 		description:
 			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
 	},
@@ -67,16 +67,16 @@ const INFO = {
 			"It offers news agencies a platform to post ads, simplifying the advertising process with a variety of types of advertising, including classifieds, obituaries, displays, as well as audited and unaudited financial reports. It functions as an online advertising company in Bengaluru that specializes in providing a web based application.",
 			logo: logo,
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://wfs.adsprint.in/",
 		},
-
+		
 		{
 			title: "Cyber Defense Portal (Cyberstash Pvt Ltd)",
 			description:
 			"The SOAR service within the CDP will enable security analysts to automate and streamline incident response processes, reducing manual effort and response times. By leveraging the Shuffler API, the SOAR service will facilitate the integration of various security tools, data sources, and workflows to enable efficient incident investigation, containment, and remediation.",
 			logo: logo,
 			linkText: "View Project",
-			link: "https://wfs.adsprint.in/",
+			link: "https://github.com",
 		},
 	],
 };

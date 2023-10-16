@@ -13,16 +13,16 @@ const Works = () => {
 				body={
 					<div className="works-body">
 						<div className="work">
-							<img
+							{/* <img
 								src="./twitter.png"
 								alt="twitter"
 								className="work-image"
-							/>
+							/> */}
 							<div className="work-title">Baelworks Innovation Pvt. Ltd.</div>
 							<div className="work-subtitle">
 								Software Engineer
 							</div>
-							<div className="work-duration">2019 - Present</div>
+							<div className="work-duration">2022 - Present</div>
 						</div>
 					</div>
 				}
